@@ -1,0 +1,8 @@
+{
+  "name": "FocusPath AI",
+  "description": "An AI-powered goal execution and productivity coaching platform that converts long-term goals into executable daily tasks, auto-reschedules on missed milestones, and predicts success.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
